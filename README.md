@@ -1,5 +1,6 @@
 # Исследовательский проект "Создание нейросети с нуля на основе архитектуры ResNet"
 Research project to develop a neural network from scratch
+
 Для просмотра необходимо запустить resnet_project.ipynb
 
 ## Описание
